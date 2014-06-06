@@ -9,8 +9,11 @@ import checkers
 def square(x):
   return x**2
 
-question = square(2)
-checkers.check_answer(question, 4)
+def fourthPower(x):
+  return square(square(x))
 
-question = square(9)
+question = fourthPower(2)
+checkers.check_answer(question, 16)
+
+question = fourthPower(3)
 checkers.check_answer(question, 81)
