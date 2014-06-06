@@ -36,43 +36,44 @@ These are courses that I've either taken already, or I have taken similar distri
 ####Remaining Courses:
 These are the courses I'll be doing on here:
 
- ####1st Semester:
+
+####1st Semester:
  - 6.01	Introduction to EE and CS I
  - 6.042J Mathematics for Computer Science
  
- ####2nd Semester:
+####2nd Semester:
  - 6.02	Introduction to EE and CS II
  - 6.006 Introduction to Algorithms
 
- ####3rd Semester:
+####3rd Semester:
  - 6.041 Probabilistic Systems Analysis
  - 6.046J Design and Analysis of Algorithms
 
- ####4th Semester:
+####4th Semester:
  - 6.034 Artificial Intelligence
  - 6.003 Signals and Systems
  
- ####5th Semester:
+####5th Semester:
  - 6.004	Computation Structures
  - 24.241	Logic I
  
- ####6th Semester:
+####6th Semester:
  - 6.033 Computer Systems Engineering
  - 24.242 Logic II
  
- ####7th Semester:
+####7th Semester:
  - 6.013 Electromagnetics and Applications
  - 24.244 Modal Logic
  
- ####8th Semester:
+####8th Semester:
  - 6.011 Intro to Comm., Control and Signals
  - 6.005 Elements of Software Construction
  
- ####9th Semester:
+####9th Semester:
  - 6.801 Machine Vision
  - 6.837 Computer Graphics
  
- ####10th Semester:
+####10th Semester:
  - COSC 545	Theory of Computation
  - ANOTHER ELECTIVE?
 
