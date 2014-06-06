@@ -5,7 +5,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '../modules/'))
 import checkers
 import math
 
-#This is just asking for me to create a function that calculates distance!
+#This is just asking for me to create a function that calculates the value of a quadratic equation!
 
 def evalQuadratic(a, b, c, x):
   return a*x**2 + b*x + c
