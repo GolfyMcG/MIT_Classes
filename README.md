@@ -9,7 +9,7 @@ I'm working on [Healthify](www.healthify.us) most of the time, so I won't be doi
 
 ####Rules
 
-1. Everything I do will be posted on my [blog](blog.golfymcg.com) and/or on my [github](github.com/GolfyMcG/MIT_Classes).
+1. Everything I do will be posted on my [blog](https://blog.golfymcg.com) and/or on my [github](GolfyMcG/MIT_Classes).
 2. I will take notes on every lecture for every class. I'm going to experiment with the [Cornell Method](http://coe.jmu.edu/learningtoolbox/cornellnotes.html). That means posting my original notes, then the following day, reviewing those notes and adding headings and a summary.
 3. I will post all of my homework solutions.
 4. I must complete the final exam with at least a 60% under the same contraints as a normal student.
