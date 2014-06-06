@@ -4,7 +4,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '../modules/'))
 
 import checkers
 
-#This is just asking for me to create a function that squares things!
+#This is just asking for me to create a function that raises things to the 4th power
 
 def square(x):
   return x**2
