@@ -37,43 +37,43 @@ These are courses that I've either taken already, or I have taken similar distri
 These are the courses I'll be doing on here:
 
 ####1st Semester:
- - [6.01 Introduction to EE and CS I](into-to-ee-cs-1)
- - [6.042J Mathematics for Computer Science](math-for-cs)
+ - [6.01 Introduction to EE and CS I][into-to-ee-cs-1]
+ - [6.042J Mathematics for Computer Science][math-for-cs]
  
 ####2nd Semester:
- - [6.02 Introduction to EE and CS II](inro-to-ee-cs-2)
- - [6.006 Introduction to Algorithms](intro-to-alg)
+ - [6.02 Introduction to EE and CS II][inro-to-ee-cs-2]
+ - [6.006 Introduction to Algorithms][intro-to-alg]
 
 ####3rd Semester:
- - [6.041 Probabilistic Systems Analysis](prob-sys-anal)
- - [6.046J Design and Analysis of Algorithms](des-and-anal-of-alg)
+ - [6.041 Probabilistic Systems Analysis][prob-sys-anal]
+ - [6.046J Design and Analysis of Algorithms][des-and-anal-of-alg]
 
 ####4th Semester:
- - [6.034 Artificial Intelligence](art-int)
- - [6.003 Signals and Systems](sig-and-sys)
+ - [6.034 Artificial Intelligence][art-int]
+ - [6.003 Signals and Systems][sig-and-sys]
  
 ####5th Semester:
- - [6.004 Computation Structures](comp-struc)
- - [24.241	Logic I](log-1)
+ - [6.004 Computation Structures][comp-struc]
+ - [24.241	Logic I][log-1]
 
 ####6th Semester:
- - [6.033 Computer Systems Engineering](comp-sys-eng)
- - [24.242 Logic II](log-2)
+ - [6.033 Computer Systems Engineering][comp-sys-eng]
+ - [24.242 Logic II][log-2]
 
 ####7th Semester:
- - [6.013 Electromagnetics and Applications](ele-and-app)
- - [24.244 Modal Logic](mod-log)
+ - [6.013 Electromagnetics and Applications][ele-and-app]
+ - [24.244 Modal Logic][mod-log]
 
 ####8th Semester:
- - [6.011 Intro to Comm., Control and Signals](intro-to-comm-cont-sig)
- - [6.005 Elements of Software Construction](elem-of-soft-con)
+ - [6.011 Intro to Comm., Control and Signals][intro-to-comm-cont-sig]
+ - [6.005 Elements of Software Construction][elem-of-soft-con]
 
 ####9th Semester:
- - [6.801 Machine Vision](mach-vis)
- - [6.837 Computer Graphics](comp-graph)
+ - [6.801 Machine Vision][mach-vis]
+ - [6.837 Computer Graphics][comp-graph]
 
 ####10th Semester:
- - [COSC 545	Theory of Computation](theory-of-comp)
+ - [COSC 545	Theory of Computation][theory-of-comp]
  - ANOTHER ELECTIVE?
 
 I might update this page to reflect changes, but for now, this is my approximate goal. If I find a Stanford alternative, for example, then I might replace a course. I might also find myself struggling to finish in 8 weeks but we'll see! Hopefully this isn't one of the many ill fated blogs/repos that people start and slowly let slip into nothingness...
