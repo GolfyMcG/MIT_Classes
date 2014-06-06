@@ -1,5 +1,11 @@
 def check_answer(question, answer):
-  if question == answer:
-    print "Correct"
+  if question is type(None) or question is None:
+    if answer == "NoneType" or answer == "None":
+      print "Correct"
+    else:
+      print "Wrong"
   else:
-    print "Wrong"
+    if question == answer:
+      print "Correct"
+    else:
+      print "Wrong"
