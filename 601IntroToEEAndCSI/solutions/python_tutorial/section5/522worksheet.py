@@ -21,7 +21,6 @@ def perpDist(p, l):
 
   ps = (xs, yo)
   shrt_distance = round(pointDist(ps, p)*100)/100
-  print shrt_distance
   return shrt_distance
 
 p = (10, 0)
