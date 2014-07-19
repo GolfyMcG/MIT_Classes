@@ -3,7 +3,6 @@ import os.path
 sys.path.append(os.path.join(os.path.dirname(__file__), '../modules/'))
 
 import checkers
-import math
 
 def everyOther(l):
   return [l[x] for x in range(0, len(l), 2)]
