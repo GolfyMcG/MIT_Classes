@@ -1,18 +1,27 @@
 import types
 
-def check_answer(question, answer):
+
+def check_answer(question, answer, number=0):
+  def print_check(value):
+    if value:
+      response = "Correct"
+    else:
+      response = "Wrong***"
+
+    print `number` + ".) " + response
+
   if question is type(None) or question is None:
     if answer == "NoneType" or answer == "None":
-      print "Correct"
+      print_check(True)
     else:
-      print "Wrong"
+      print_check(False)
   elif isinstance(question, types.FunctionType):
     if answer == "Function":
-      print "Correct"
+      print_check(True)
     else:
-      print "Wrong"
+      print_check(False)
   else:
     if question == answer:
-      print "Correct"
+      print_check(True)
     else:
-      print "Wrong"
+      print_check(False)
