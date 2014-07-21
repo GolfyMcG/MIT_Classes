@@ -13,6 +13,7 @@ def piSeries(n):
 def within(x, y, eps):
   return True if abs(x-y) < eps else False
 
+# I couldn't recall having created a 'between' procedure...
 def numTerms(eps):
   i = 1
   guess = 0
@@ -37,6 +38,8 @@ question = within(13, 4, 2)
 ansvalue = False
 checkers.check_answer(question, ansvalue, n)
 
+# Kind of hard to determine what the outcomes to these should be.
+# The guessed value is good enough for me!
 print numTerms(0.1)
 print numTerms(0.01)
 print numTerms(0.001)
